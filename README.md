@@ -8,15 +8,15 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript & Angular.
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
   
 - 📫 Social links
 <p>
-<a href="https://www.facebook.com/mohamedelkashef15/"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/mohamedelkashef/"><img
+
+  
+<a href="https://www.linkedin.com/in/eman-awad-714757203/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
   
