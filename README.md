@@ -11,6 +11,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 👨‍💻 I’m currently working on web development technologies like JavaScript & Angular.
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 📫 How to reach me **emanelnady2001@gmail.com**
   
 - 📫 Social links
 <p>
